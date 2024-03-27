@@ -7,5 +7,5 @@
 
 
 ### Tools:
-<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ide/android-studio.svg' height="50"/>
-<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ide/vs-studio.svg' height="50"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg' height="50"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/vs-studio.svg' height="50"/>
