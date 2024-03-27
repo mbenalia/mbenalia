@@ -1,3 +1,3 @@
 ### Student in Artificial Intelligence, I make Flutter apps too 👋
 
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="50" height="50"/>
+<img src='<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg' height="50"/>
