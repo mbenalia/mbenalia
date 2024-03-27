@@ -8,4 +8,4 @@
 
 ### Tools:
 <img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg' height="50"/>
-<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/vs-studio.svg' height="50"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text editors/vscode.svg' height="50"/>
