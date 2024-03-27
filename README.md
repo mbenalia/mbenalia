@@ -1,4 +1,3 @@
 ### Student in Artificial Intelligence, I make Flutter apps too 👋
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="50" height="50"/>
