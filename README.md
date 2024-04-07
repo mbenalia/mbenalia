@@ -14,3 +14,4 @@
 <img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text editors/vscode.svg' height="50"/>
 </p>
 - [LinkedIn](lien_vers_linkedin)
+![Statistiques GitHub] (https://github-readme-stats.vercel.app/api?username=mbenalia&show_icons=true)
