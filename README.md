@@ -18,6 +18,6 @@
 ## Statistiques GitHub
 - [LinkedIn](lien_vers_linkedin)
   
-![Statistiques GitHub](https://readme-stats-git-main-mbenalias-projects.vercel.app/api?username=mbenalia&show_icons=true)
+![Statistiques GitHub](https://readme-stats-git-main-mbenalias-projects.vercel.app/api?username=mbenalia&show_icons=true&theme=tokyonight)
 
-![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia&show_icons=true)
+![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia&show_icons=true&theme=tokyonight)
