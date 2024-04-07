@@ -20,4 +20,4 @@
   
 ![Statistiques GitHub](https://readme-stats-git-main-mbenalias-projects.vercel.app/api?username=mbenalia&show_icons=true&theme=tokyonight&include_all_commits)
 
-![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia&show_icons=true&theme=tokyonight)
+![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia&show_icons=true&theme=tokyonight&include_all_commits)
