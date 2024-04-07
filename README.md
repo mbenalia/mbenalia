@@ -19,3 +19,5 @@
 - [LinkedIn](lien_vers_linkedin)
   
 ![Statistiques GitHub] (https://github-readme-stats.vercel.app/api?username=mbenalia&show_icons=true)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbenalia)
