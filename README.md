@@ -20,4 +20,4 @@
   
 ![Statistiques GitHub](https://readme-stats-git-main-mbenalias-projects.vercel.app/api?username=mbenalia&show_icons=true)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbenalia)
+![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia)
