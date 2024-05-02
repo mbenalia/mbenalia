@@ -1,5 +1,5 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- ⏱️ Right Now :  Studying Data & Machine Learning
+- ⏱️ Right Now :  Studying 𝘿𝙖𝙩𝙖 and 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 
 - 💼 Carreer: Apprenticeship as a Data Scientist starting next Fall
 - 🎓 Education : Diploma Advanced Technician on Web and Mobile Development
 - 🎯 Goals: Contributing to Open Source Education or Health projects
