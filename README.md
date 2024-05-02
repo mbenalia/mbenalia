@@ -1,5 +1,5 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- :open book: Studing Data Science & Machine Learning
+- :openbook: Studing Data Science & Machine Learning
 - 
 
 <h3 align="left"> Data and Machine Learning</h3>
