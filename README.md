@@ -1,17 +1,17 @@
 ### Student in Artificial Intelligence, I make Flutter apps too 👋
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Data and Machine Learning</h3>
 <p align="left"><img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' height="40"/>
 <img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' height="40"/>
 <img src='https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white' height="40"/> 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="40"/> 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"  height="40"/>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="40"/> 
-
-
-
-
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="40"/>
 ### Tools:
 
 <img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg' height="50"/>
