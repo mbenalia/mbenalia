@@ -6,7 +6,7 @@
 
 ---
 
-## 📈 Data and Machine Learning
+## 📈 𝙳𝚊𝚝𝚊 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
 <p align="left">
 <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' height="20"/>
 <img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' height="20"/>
@@ -22,7 +22,7 @@
 
 ---
 
-### 💻📱 Web & Mobile Dev
+### 💻📱 𝚆𝚎𝚋 & 𝙼𝚘𝚋𝚒𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Tools:
+### 🛠️ 𝚃𝚘𝚘𝚕𝚜:
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20"/>
@@ -45,6 +45,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊  𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 ![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia&show_icons=true&theme=cobalt&include_all_commits&layout=donut&bg_color=00000000)
