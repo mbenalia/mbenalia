@@ -1,4 +1,4 @@
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ⏱️ Right Now :  Studying 𝘿𝙖𝙩𝙖 and 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 
 - 💼 Carreer: Apprenticeship as a Data Scientist starting next Fall
 - 🎓 Education : Diploma Advanced Technician on Web and Mobile Development
@@ -6,7 +6,7 @@
 
 ---
 
-## 📈 𝙳𝚊𝚝𝚊 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
+### 📈 𝙳𝚊𝚝𝚊 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
 <p align="left">
 <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' height="20"/>
 <img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' height="20"/>
@@ -45,5 +45,5 @@
 
 ---
 
-## 📊  𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+### 📊  𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 ![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia&show_icons=true&theme=cobalt&include_all_commits&layout=donut&bg_color=00000000)
