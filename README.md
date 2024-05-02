@@ -1,3 +1,6 @@
+<img src='https://i.ibb.co/c6K0PvC/GHbanner2.png' height="40"/>
+
+
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ⏱️ Right Now :  Studying 𝘿𝙖𝙩𝙖 and 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 
 - 💼 Carreer: Apprenticeship as a Data Scientist starting next Fall
