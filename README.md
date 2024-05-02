@@ -1,8 +1,10 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- :openbook: Studing Data Science & Machine Learning
-- 
+- 📒: Right Now : Studying Data & Machine Learning
+- 💼 : Apprenticeship in Data Science starting next Fall
+- 🎓 : Diploma Advanced Technician on Web and Mobile Development
+  
 
-<h3 align="left"> Data and Machine Learning</h3>
+## 📈 Data and Machine Learning
 <p align="left">
 <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' height="20"/>
 <img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' height="20"/>
@@ -16,7 +18,7 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="20"/></p>
 
-### Web & Mobile Dev
+### 💻📱 Web & Mobile Dev
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
@@ -27,7 +29,7 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="20"/></p>
 
 
-### Tools:
+### 🛠️ Tools:
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20"/>
@@ -37,8 +39,6 @@
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" height="20"/></p>
 
 
-## Statistiques GitHub
-- [LinkedIn](lien_vers_linkedin)
-  
+## 📊 GitHub Stats
 
 ![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia&show_icons=true&theme=cobalt&include_all_commits&layout=donut&bg_color=00000000)
