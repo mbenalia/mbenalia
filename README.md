@@ -47,6 +47,12 @@
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" height="20"/></p>
 
 ---
-
+### 𝙾𝚝𝚑𝚎𝚛𝚜 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜:
+<p align="left">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="20"/>
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>
+</p>
 ### 📊  𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 ![Top Langages](https://readme-stats-chi-pink.vercel.app/api/top-langs/?username=mbenalia&show_icons=true&theme=cobalt&include_all_commits&layout=donut&bg_color=00000000)
